@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0.0" />
-    <item text="Initial Changelog" />
-    <item text="Bullet point here" />
-    <item text="More points" />
+    <version title="v1.0.2" />
+    <item text="Added xxx new icons" />
+    <item text="Fixed/improved several icons" />
+    <item text="Application updated to allow the icon pack to be applied directly from the application" />
+    <item text="Fixed icons appearing cropped in the UI" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
