@@ -57,4 +57,7 @@
     <color name="amoledThemeSnackbarTextColor">#de000000</color>
     <color name="amoledThemeSnackbarButtonColor">#3c9983</color>
 
+    <color name="orange">#FF9800</color>
+    <color name="dark_gray">#202020</color>
+
 </resources>

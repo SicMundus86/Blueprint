@@ -35,16 +35,20 @@
 
     <!-- Don't change the parent style -->
     <style name="MyApp.BottomNavigationView" parent="Widget.Blueprint.BottomNavigationView">
-        <!--
-            Switch bottom navigation labels visibility style
-            You can use any of there:
-            - auto
-            - labeled
-            - unlabeled
-            - selected
-            Learn more: https://developer.android.com/reference/com/google/android/material/bottomnavigation/LabelVisibilityMode
-        -->
         <item name="labelVisibilityMode">labeled</item>
     </style>
 
+    <!-- Custom AlertDialog style -->
+    <style name="MyApp.AlertDialog" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="android:background">@color/white</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="buttonBarPositiveButtonStyle">@style/MyApp.DialogButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/MyApp.DialogButton</item>
+    </style>
+
+    <!-- Custom AlertDialog button style -->
+    <style name="MyApp.DialogButton" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:background">@drawable/btn_update_selector</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
 </resources>

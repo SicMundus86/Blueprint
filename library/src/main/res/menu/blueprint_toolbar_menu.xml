@@ -38,12 +38,12 @@
         android:title="@string/changelog"
         app:showAsAction="never" />
 
-    <item
-        android:id="@+id/help"
-        android:icon="@drawable/ic_help"
-        android:orderInCategory="600"
-        android:title="@string/help"
-        app:showAsAction="never" />
+<!--    <item-->
+<!--        android:id="@+id/help"-->
+<!--        android:icon="@drawable/ic_help"-->
+<!--        android:orderInCategory="600"-->
+<!--        android:title="@string/help"-->
+<!--        app:showAsAction="never" />-->
 
     <item
         android:id="@+id/about"

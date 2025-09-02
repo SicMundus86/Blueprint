@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Updater APK path (internal storage) -->
+    <files-path
+        name="internal_files"
+        path="." />
+
+    <!-- Default cache and external paths (auto-generated) -->
+    <cache-path name="cache" path="/" />
+    <cache-path name="cache_files" path="." />
+    <external-path name="external_files" path="." />
+
+</paths>
