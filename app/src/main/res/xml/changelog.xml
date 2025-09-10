@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0.3" />
-    <item text="Added x new icons (See Github for full list)" />
+    <version title="v1.0.4" />
+    <item text="Added 73 new icons (See Github for full list)" />
     <item text="Fixed/improved several icons" />
+    <item text="Fixed a few mapping issues" />
+    <item text="Added a new section for generic icons" />
+    <item text="Added a new section for Projectivy category icons" />
+    <item text="Added a new section for icons with no mapping" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
